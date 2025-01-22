@@ -73,7 +73,7 @@ A mock dataset was created for this project, containing the following columns:
   - Values: Count of Patient_ID
  
 ## **Power BI Dashboard**
-![Alt text]()
+![Alt text](https://github.com/Abdulwaashim/Healthcare-analysis01/blob/main/Dashboard-img.png)
 
 ## Results and Insights
 
