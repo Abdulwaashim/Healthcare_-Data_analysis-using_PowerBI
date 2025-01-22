@@ -71,6 +71,9 @@ A mock dataset was created for this project, containing the following columns:
 - **Fields**:
   - Legend: Age_Group
   - Values: Count of Patient_ID
+ 
+## **Power BI Dashboard**
+![Alt text]()
 
 ## Results and Insights
 
