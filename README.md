@@ -85,10 +85,6 @@ A mock dataset was created for this project, containing the following columns:
 3. **Hospital visits over time**:
    - Line chart effectively captures the trends in hospital visits over months.
 
-### Suggestions for Improvement
-- Correlate Blood Sugar and Cholesterol Levels directly with specific Disease_Types using additional visuals.
-- Enhance interactivity with slicers for Age_Group, Gender, and Disease_Type.
-
 ## Tools Used
 - **Power BI Desktop** for data visualization and analysis.
 
